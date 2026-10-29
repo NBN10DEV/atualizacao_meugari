@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 2,
-  "latestVersionName": "2.3.0",
+  "latestVersionCode": 7,
+  "latestVersionName": "3.0.0",
   "updateUrl": "https://play.google.com/store/apps/details?id=com.coding.meugari",
-  "releaseNotes": "Nova versão do Meu Gari disponível com melhorias de desempenho e novas rotas de coleta!",
+  "releaseNotes": "Nova versão do Meu Gari disponível com melhorias de desempenho e novas funcionalidades!",
   "forceUpdate": false
 }
